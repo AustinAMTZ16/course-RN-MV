@@ -97,8 +97,7 @@ Uso README.md en Github
 [![baidu]](https://programmerclick.com/article/16331423290/)  
 [baidu]: http: //www.baidu.com/img/bdlogo.gif "Logotipo de Baidu"  
 
-```ios
-@property (nonatomic, strong) NSString *title;
+
 
 
 
