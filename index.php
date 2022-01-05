@@ -7,6 +7,8 @@
     <title>Reac Native Dispositivos Moviles</title>
 </head>
 <body>
-    
+    <?php
+    require('Readm.md');
+    ?>
 </body>
 </html>

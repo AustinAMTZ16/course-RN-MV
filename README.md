@@ -54,8 +54,9 @@ Configuracion en Github
 
 - Configuracion Hostinger - GitHub
     https://support.hostinger.es/es/articles/2642602-puedo-implementar-un-repositorio-git
-    
 
+- Configurar PHP 
+    https://www.solvetic.com/tutoriales/article/9121-como-instalar-php-7-4-en-windows-10/
 
 …or create a new repository on the command line
 echo "# course-RN-MV" >> README.md
