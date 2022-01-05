@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-    require('Readm.md');
+    require('README.md');
     ?>
 </body>
 </html>
