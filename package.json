@@ -1,0 +1,25 @@
+{
+  "name": "writers_block_landing_page",
+  "version": "1.0.0",
+  "description": "Writing landing page",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "tailwind": "^4.0.0",
+    "tailwindcss": "^1.7.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RachelNapier/writers_block_landing_page.git"
+  },
+  "author": "Rachel Napier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RachelNapier/writers_block_landing_page/issues"
+  },
+  "homepage": "https://github.com/RachelNapier/writers_block_landing_page#readme"
+}
