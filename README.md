@@ -12,27 +12,27 @@ React Native
 
 # Seccion 4 - Counter App
 - En esta sección veremos temas sobre:
-    Hola Mundo en React Native
-    Cambios en el State
-    Contador
-    Re-utilización de componentes
-    Pantallas
-    Componentes personalizados
-    Stylesheet
-    Envío de argumentos a componentes
-    Tipando props
-    Componentes como:
-        View
-        Text
-        TouchableOpacity
-        TouchableNativeFeedback
-        TouchableWithoutFeedback
+   - Hola Mundo en React Native
+   - Cambios en el State
+   - Contador
+   - Re-utilización de componentes
+   - Pantallas
+   - Componentes personalizados
+   - Stylesheet
+   - Envío de argumentos a componentes
+   - Tipando props
+   - Componentes como:
+       - View
+       - Text
+       - TouchableOpacity
+       - TouchableNativeFeedback
+       - TouchableWithoutFeedback
 
 # Seccion 5 - Flex, Position y Box Object Model
 - En esta sección nos enfocaremos principalmente en comprender los 3 bloques principales para el diseño de aplicaciones en React Native:
-    Box Object Model
-    Position
-    Flex Layout
+   - Box Object Model
+   - Position
+   - Flex Layout
 
 
 
