@@ -28,14 +28,11 @@ React Native
         TouchableNativeFeedback
         TouchableWithoutFeedback
 
-
-
-
-
-
-
-
-
+# Seccion 5 - Flex, Position y Box Object Model
+- En esta sección nos enfocaremos principalmente en comprender los 3 bloques principales para el diseño de aplicaciones en React Native:
+    Box Object Model
+    Position
+    Flex Layout
 
 
 
@@ -76,6 +73,11 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 Uso README.md en Github
 -------
 [![Uso README.md en Github]](https://programmerclick.com/article/16331423290/)  
+
+
+
+
+
 
 # Título de primer nivel
  ## Título secundario
