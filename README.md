@@ -10,37 +10,43 @@ React Native
     Crear proyecto con recursos minimos 
     Carpeta de IOS - Android 
 
+Secciones Curso React Native
+-------
 # Seccion 4 - Counter App
-- En esta sección veremos temas sobre:
-   - Hola Mundo en React Native
-   - Cambios en el State
-   - Contador
-   - Re-utilización de componentes
-   - Pantallas
-   - Componentes personalizados
-   - Stylesheet
-   - Envío de argumentos a componentes
-   - Tipando props
-   - Componentes como:
-       - View
-       - Text
-       - TouchableOpacity
-       - TouchableNativeFeedback
-       - TouchableWithoutFeedback
+  - En esta sección veremos temas sobre:
+    - Hola Mundo en React Native
+    - Cambios en el State
+    - Contador
+    - Re-utilización de componentes
+    - Pantallas
+    - Componentes personalizados
+    - Stylesheet
+    - Envío de argumentos a componentes
+    - Tipando props
+    - Componentes como:
+        - View
+        - Text
+        - TouchableOpacity
+        - TouchableNativeFeedback
+        - TouchableWithoutFeedback
 
 # Seccion 5 - Flex, Position y Box Object Model
-- En esta sección nos enfocaremos principalmente en comprender los 3 bloques principales para el diseño de aplicaciones en React Native:
-   - Box Object Model
-   - Position
-   - Flex Layout
+  - En esta sección nos enfocaremos principalmente en comprender los 3 bloques principales para el diseño de aplicaciones en React Native:
+    - Box Object Model
+    - Position
+    - Flex Layout
 
-
-
-
-
-
-
-
+# Seccion 6 - Aplicación - Calculadora de IOS
+  - Esta sección es nuestra primera aplicación oficial en React Native, crearemos una calculadora que use componentes re-utilizables, custom hooks, cálculos matemáticos y estilo Flex para lograr el aspecto visual deseado.
+    - Puntualmente veremos:
+      - Flex layout
+      - useState
+      - useRef
+      - useCalculadora - Custom Hook
+      - View
+      - SafeAreaView
+      - Text
+      - StyleSheets
 
 
 
@@ -78,6 +84,10 @@ Uso README.md en Github
 
 
 
+
+
+# Seccion 7 - Tipos de Navegación APP 
+  - Aquí empezaremos con el Stack y Drawer navigation, comprender cada uno de los diferentes controles de navegaciones es una pieza fundamental el cualquier aplicación móvil, por lo que procuremos aprender cada uno de ellos para poderlos mezclar y lograr el objetivo que tenemos para nuestra aplicación.
 
 # Título de primer nivel
  ## Título secundario
@@ -130,6 +140,8 @@ Pruebas
 </p>
 <br>
 <br>
+
+
 <!-- ABOUT -->
 
 ## <strong>About This Project:</strong>

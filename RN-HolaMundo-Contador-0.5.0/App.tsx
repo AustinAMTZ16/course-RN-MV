@@ -22,6 +22,8 @@ export const App = () => {
       {/* <DimensionesScreen /> */}
       {/* <PositionScreen /> */}
       {/* <FlexScreen /> */}
+      {/*<TareaScreen />*/}
+
       <TareaScreen />
 
     </SafeAreaView>
