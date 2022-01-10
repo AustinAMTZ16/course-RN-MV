@@ -88,7 +88,21 @@ Uso README.md en Github
 
 # Seccion 7 - Tipos de Navegación APP 
   - Aquí empezaremos con el Stack y Drawer navigation, comprender cada uno de los diferentes controles de navegaciones es una pieza fundamental el cualquier aplicación móvil, por lo que procuremos aprender cada uno de ellos para poderlos mezclar y lograr el objetivo que tenemos para nuestra aplicación.
+    - Stack Navigation.- Logica va poniendo view ensima de otro 
+    - Drawer Navigation.- Logica por en lases Drawer 
+    - BottomTab Navigation
+    - MaterialTop Navigation
 
+# Seccion 8 - Tipos de Navegación APP & Material TOP Scrollable Tabs
+  - En esta sección aprenderemos tres temas muy importantes que son:
+    - Tabs
+    - TopTaps con scroll
+    - Iconos
+
+# Seccion 9 - Context y estados global de la aplicacion
+  - El objetivo de esta sección, es aprender cómo comunicar los componentes entre sí, sin importar su ubicación en el árbol de componentes.
+  - Aprenderemos a colocar el tipado a todo y usar el context para poder renderizar nuevamente los componentes cuando surjan cambios.
+    
 # Título de primer nivel
  ## Título secundario
  ### Encabezado de tres niveles

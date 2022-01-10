@@ -6,11 +6,10 @@ import { Pagina2Screen } from '../screens/Pagina2Screen';
 import { Pagina3Screen } from '../screens/Pagina3Screen';
 import { PersonaScreen } from '../screens/PersonaScreen';
 
-//Definir Vistas
 export type RootStackParams = {
   Pagina1Screen: undefined,
   Pagina2Screen: undefined,
-  Pagina3Screen: undefined, 
+  Pagina3Screen: undefined,
   PersonaScreen: { id: number, nombre: string },
 }
 

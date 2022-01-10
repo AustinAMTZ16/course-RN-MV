@@ -7,11 +7,11 @@ import { styles } from '../theme/appTheme';
 export const Pagina2Screen = () => {
 
     const navigator = useNavigation();
-    //Efectos secundarios
+
     useEffect(() => {
         navigator.setOptions({
-            title: 'Hola Agustín',
-            headerBackTitle: 'Regresar'
+            title: 'Hola Mundo',
+            headerBackTitle: ''
         })
     }, [])
 
