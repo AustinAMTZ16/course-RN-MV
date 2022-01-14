@@ -117,7 +117,37 @@ Configuracion en Github
     -  Global State
     -  Extraer colores de las imágenes
     -  Funciones helper
-    
+# Seccion 12 - Componentes de ReactNative
+  - En esta sección vamos a trabajar con muchos componentes de React Native y su personalización, el objetivo es que aprendamos sus detalles y cómo seguir expandiendo nuestro conocimiento de la mano de la documentación.
+
+    - Aquí veremos entre otros temas:
+      - Animaciones
+      - FlatLists
+      - Normales
+      - Agrupadas
+      - Modals
+      - Alertas
+      - Switches
+      - TextInputs
+      - Teclados
+      - Imágenes
+      - FadeInImage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Título de primer nivel
  ## Título secundario
  ### Encabezado de tres niveles
