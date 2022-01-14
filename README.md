@@ -119,7 +119,6 @@ Configuracion en Github
     -  Funciones helper
 # Seccion 12 - Componentes de ReactNative
   - En esta sección vamos a trabajar con muchos componentes de React Native y su personalización, el objetivo es que aprendamos sus detalles y cómo seguir expandiendo nuestro conocimiento de la mano de la documentación.
-
     - Aquí veremos entre otros temas:
       - Animaciones
       - FlatLists
