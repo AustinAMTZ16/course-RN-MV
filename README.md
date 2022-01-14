@@ -61,24 +61,24 @@ Configuracion en Github
 - Configurar PHP 
     https://www.solvetic.com/tutoriales/article/9121-como-instalar-php-7-4-en-windows-10/
 
-…or create a new repository on the command line
-echo "# course-RN-MV" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/AustinAMTZ16/course-RN-MV.git
-git push -u origin main
-…or push an existing repository from the command line
-git remote add origin https://github.com/AustinAMTZ16/course-RN-MV.git
-git branch -M main
-git push -u origin main
-…or import code from another repository
-You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+  …or create a new repository on the command line
+  echo "# course-RN-MV" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/AustinAMTZ16/course-RN-MV.git
+  git push -u origin main
+  …or push an existing repository from the command line
+  git remote add origin https://github.com/AustinAMTZ16/course-RN-MV.git
+  git branch -M main
+  git push -u origin main
+  …or import code from another repository
+  You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
-Uso README.md en Github
--------
-[![Uso README.md en Github]](https://programmerclick.com/article/16331423290/)  
+  Uso README.md en Github
+  -------
+  [![Uso README.md en Github]](https://programmerclick.com/article/16331423290/)  
 
 
 
@@ -99,9 +99,24 @@ Uso README.md en Github
     - TopTaps con scroll
     - Iconos
 
-# Seccion 9 - Context y estados global de la aplicacion
+# Seccion 9 - Context y estados global de la aplicacion [sección importante]
   - El objetivo de esta sección, es aprender cómo comunicar los componentes entre sí, sin importar su ubicación en el árbol de componentes.
   - Aprenderemos a colocar el tipado a todo y usar el context para poder renderizar nuevamente los componentes cuando surjan cambios.
+
+# Seccion 10 - Aplicación de Películas
+  - Puntualmente:
+    - Axios
+    - Custom Hooks aplicados a la realidad
+    - Loadings
+    - Promesas simultáneas @
+    - Carousels
+
+# Seccion 11 - Gradiente animado - ConextAPI
+  - Puntualmente aprenderemos:
+    -  ContextAPI
+    -  Global State
+    -  Extraer colores de las imágenes
+    -  Funciones helper
     
 # Título de primer nivel
  ## Título secundario
